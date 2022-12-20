@@ -80,6 +80,6 @@
 Ngục tù chỉ giam giữ được thân xác con người chứ không thể khiến tinh thần mất đi tự do. Hãy tưởng tượng về những điều tốt đẹp trong những lúc khó khăn. Bởi vì bạn trở nên mạnh mẽ lên hay gục ngã xuống trước hết phụ thuộc vào tâm trí.</strong></p>
 <br>
 <a href="#" target="_blank">
-  <img src="svg/trungquandev-quotes.svg" width="846" height="150" alt="trungquandev-official" />
+  <img src="svg/buiductuan-quotes.svg" width="846" height="150" alt="Lãng khách cô độc" />
 </a>
 
