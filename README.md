@@ -5,6 +5,12 @@
 <h2 align="center">🛠 Technologies and Tools 🛠</h2>
 <br>
 <!-- https://simpleicons.org/ -->
+<span><img src="https://img.shields.io/badge/Python-282C34?logo=python&logoColor=#3776AB" alt="JavaScript logo" title="JavaScript" height="25" /></span>
+&nbsp;
+<span><img src="https://img.shields.io/badge/PostgreSQL-282C34?logo=PostgreSQL&logoColor=#4169E1" alt="PostgreSQL logo" title="JavaScript" height="25" /></span>
+&nbsp;
+<span><img src="https://img.shields.io/badge/C Sharp-282C34?logo=c Sharp&logoColor=#239120" alt="JavaScript logo" title="C Sharp" height="25" /></span>
+&nbsp;
 <span><img src="https://img.shields.io/badge/JavaScript-282C34?logo=javascript&logoColor=F7DF1E" alt="JavaScript logo" title="JavaScript" height="25" /></span>
 &nbsp;
 <span><img src="https://img.shields.io/badge/TypeScript-282C34?logo=typescript&logoColor=3178C6" alt="TypeScript logo" title="TypeScript" height="25" /></span>
@@ -50,7 +56,7 @@
 <!-- https://github.com/anuraghazra/github-readme-stats -->
 <br>
 <br>
-<h2 align="center">👽 Where to find me 👽</h2>
+<h2 align="center">❤️  Where to find me ❤️ </h2>
 <br>
 <!-- https://icons8.com -->
 <div align="center">
@@ -72,7 +78,7 @@
 </div>
 
 <br>
-<h1 align = 'center'> <img src='images/vn.jpg' width='30px' height='20px'/> Sống có trách nhiệm với bản thân - gia đình và phụng sự tổ quốc</h1>
+<h1 align = 'center'>Sống có trách nhiệm với bản thân - gia đình và phụng sự tổ quốc❤️</h1>
 <h2 align="center">📖 Tri thức là sức mạnh 📖</h2>
 <br>
 <p><strong>Albert Einstein từng nói: “Trí tưởng tượng còn quan trọng hơn cả kiến thức. Kiến thức thì hạn chế. Trí tưởng tượng lại bao quanh cả thế giới”.
