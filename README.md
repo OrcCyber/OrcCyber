@@ -72,7 +72,7 @@
 </div>
 
 <br>
-
+<h1 align = 'center'> <img src='images/vn.jpg' width='30px' height='20px'/> Sống có trách nhiệm với bản thân - gia đình và phụng sự tổ quốc</h1>
 <h2 align="center">📖 Tri thức là sức mạnh 📖</h2>
 <br>
 <p><strong>Albert Einstein từng nói: “Trí tưởng tượng còn quan trọng hơn cả kiến thức. Kiến thức thì hạn chế. Trí tưởng tượng lại bao quanh cả thế giới”.
