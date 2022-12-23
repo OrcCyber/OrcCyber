@@ -60,7 +60,7 @@
 <br>
 <!-- https://icons8.com -->
 <div align="center">
-  <a href="https://facebook.com/trungquandev" target="blank">
+  <a href="https://www.facebook.com/SelffCentered?mibextid=ZbWKwL" target="blank">
     <img src="https://img.icons8.com/bubbles/100/000000/facebook-new.png" alt="trungquandev-facebook" />
   </a>
   <a href="#" target="blank">
@@ -69,7 +69,7 @@
   <a href="#" target="blank">
     <img src="https://img.icons8.com/bubbles/100/000000/linkedin.png" alt="buiductuan-linkedin" />
   </a>
-  <a href="#" target="blank">
+  <a href="https://www.instagram.com/bui_duc_tuan995/" target="blank">
     <img src="https://img.icons8.com/bubbles/100/000000/instagram.png" alt="buiductuan-instagram" />
   </a>
   <a href="#" target="top">
