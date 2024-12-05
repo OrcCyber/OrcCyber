@@ -1,5 +1,5 @@
 <a href="#" target="_blank">
-  <img src="svg/global.svg" width="1200" alt="" />
+<img src="svg/global.svg" width="1200" alt="" />
 </a>
 
 <h2 align="center">🛠 Technologies and Tools 🛠</h2>
@@ -46,6 +46,10 @@
 <br>
 <h2 align="center">SOCIAL NETWORKING</h2>
 <br>
+<div align="center">
+<a href="https://app.daily.dev/buiductuan"><img src="https://api.daily.dev/devcards/v2/K6GTrCRlNT86uftJuz9ip.png?r=636&type=default" width="200" alt="Bùi Đức Tuấn's Dev Card"/></a>
+</div>
+
 <!-- https://icons8.com -->
 <div align="center">
   <a href="https://www.facebook.com/Orc.12.08.1995" target="blank">
