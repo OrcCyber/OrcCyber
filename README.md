@@ -1,6 +1,8 @@
-<a href="#" target="_blank">
-<img src="svg/global.svg" width="1200" alt="" />
-</a>
+<div align="center">
+  <a href="#" target="_blank">
+    <img src="svg/global.svg" width="1200" alt="" />
+  </a>
+</div>
 <div align="center">
   <img height="200" src="https://media3.giphy.com/media/v1.Y2lkPTc5MGI3NjExZnVybDl3bDVwZDV6bGk0MG01bWlkZThtZ3dyMGVubnM4amhmc3d0bCZlcD12MV9pbnRlcm5hbF9naWZfYnlfaWQmY3Q9cw/MF7oH80ZFs2RF1OqLz/giphy.gif"  />
 </div>
