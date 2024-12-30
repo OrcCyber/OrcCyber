@@ -1,10 +1,14 @@
 <a href="#" target="_blank">
 <img src="svg/global.svg" width="1200" alt="" />
 </a>
+<div align="center">
+  <img height="200" src="https://media3.giphy.com/media/v1.Y2lkPTc5MGI3NjExZnVybDl3bDVwZDV6bGk0MG01bWlkZThtZ3dyMGVubnM4amhmc3d0bCZlcD12MV9pbnRlcm5hbF9naWZfYnlfaWQmY3Q9cw/MF7oH80ZFs2RF1OqLz/giphy.gif"  />
+</div>
 
 <h2 align="center">🛠 Technologies and Tools 🛠</h2>
-<br>
-<span><img src="https://img.shields.io/badge/Python-282C34?logo=python&logoColor=#3776AB" alt="JavaScript logo" title="JavaScript" height="25" /></span>
+<span><img src="https://img.shields.io/badge/Odoo-714B67?logo=odoo&logoColor=#714B67" alt="Odoo logo" title="Odoo" height="25" /></span>
+&nbsp;
+<span><img src="https://img.shields.io/badge/Python-282C34?logo=python&logoColor=#3776AB" alt="Python logo" title="Python" height="25" /></span>
 &nbsp;
 <span><img src="https://img.shields.io/badge/PostgreSQL-282C34?logo=PostgreSQL&logoColor=#4169E1" alt="PostgreSQL logo" title="JavaScript" height="25" /></span>
 &nbsp;
@@ -42,36 +46,28 @@
 &nbsp;
 <span><img src="https://img.shields.io/badge/Firebase-282C34?logo=firebase&logoColor=FFCA28" alt="Firebase logo" title="Firebase" height="25" /></span>
 &nbsp;
-<br>
-<br>
-<h2 align="center">SOCIAL NETWORKING</h2>
-<br>
+<hr/>
 <div align="center">
-<a href="https://app.daily.dev/buiductuan"><img src="https://api.daily.dev/devcards/v2/K6GTrCRlNT86uftJuz9ip.png?r=636&type=default" width="200" alt="Bùi Đức Tuấn's Dev Card"/></a>
+  <a href="https://www.facebook.com/buiductuan.dev" target="_blank">
+    <img src="https://img.icons8.com/?size=100&id=13912&format=png&color=000000" alt="buiductuan-facebook" height="40"/>
+  </a>
+  <a href="https://www.youtube.com/@TimOdooDeveloper" target="_blank">
+    <img src="https://img.icons8.com/?size=100&id=19318&format=png&color=000000" alt="buiductuan-youtube"  height="40"/>
+  </a>
+  <a href="www.linkedin.com/in/buiductuan-dev" target="_blank">
+    <img src="https://img.icons8.com/?size=100&id=xuvGCOXi8Wyg&format=png&color=000000" alt="buiductuan-linkedin"  height="40"/>
+  </a>
+  <a href="mailto:buiductuan.dev@gmail.com" target="_blank">
+    <img src="https://img.icons8.com/?size=100&id=ho8QlOYvMuG3&format=png&color=000000" alt="buiductuan-email"  height="40"/>
+  </a>
+ <a href="https://www.tiktok.com/@buiductuan_dev" target="_blank">
+    <img src="https://img.icons8.com/?size=100&id=gHI-Q095DJQb&format=png&color=000000" alt="buiductuan-tiktok"  height="40"/>
+  </a>
+   <a href="https://github.com/buiductuan-dev" target="_blank">
+    <img src="https://img.icons8.com/?size=100&id=2HMbDtuAvJ3e&format=png&color=FFFFFF" alt="buiductuan-github"  height="40"/>
+  </a>
+  <a href="https://gitlab.com/buiductuan.dev" target="_blank">
+    <img src="https://img.icons8.com/?size=100&id=xNOPrIk9lLyq&format=png&color=000000" alt="buiductuan-gitlab"  height="40"/>
+  </a>
 </div>
-
-<!-- https://icons8.com -->
-<div align="center">
-  <a href="https://www.facebook.com/Orc.12.08.1995" target="blank">
-    <img src="https://img.icons8.com/?size=100&id=13912&format=png&color=000000" alt="buiductuan-facebook" height="50"/>
-  </a>
-  <a href="https://www.youtube.com/channel/UC3aqRDzs6DE3jA4viQmMu3w" target="blank">
-    <img src="https://img.icons8.com/?size=100&id=19318&format=png&color=000000" alt="buiductuan-youtube"  height="50"/>
-  </a>
-  <a href="https://www.linkedin.com/in/b%C3%B9i-%C4%91%E1%BB%A9c-tu%E1%BA%A5n-aab133336/" target="blank">
-    <img src="https://img.icons8.com/?size=100&id=xuvGCOXi8Wyg&format=png&color=000000" alt="buiductuan-linkedin"  height="50"/>
-  </a>
-  <a href="mailto:buiductuan.dev@gmail.com" target="top">
-    <img src="https://img.icons8.com/?size=100&id=ho8QlOYvMuG3&format=png&color=000000" alt="buiductuan-email"  height="50"/>
-  </a>
-</div>
-<br>
-<h2 align="center">📖 Tri thức là sức mạnh 📖</h2>
-<br>
-<p><strong>Albert Einstein từng nói: “Trí tưởng tượng còn quan trọng hơn cả kiến thức. Kiến thức thì hạn chế. Trí tưởng tượng lại bao quanh cả thế giới”.
-<br>
-Ngục tù chỉ giam giữ được thân xác con người chứ không thể khiến tinh thần mất đi tự do. Hãy tưởng tượng về những điều tốt đẹp trong những lúc khó khăn. Bởi vì bạn trở nên mạnh mẽ lên hay gục ngã xuống trước hết phụ thuộc vào tâm trí.</strong></p>
-<br>
-<a href="#" target="_blank">
-  <img src="svg/buiductuan-quotes.svg" width="846" height="150" alt="Lãng khách cô độc" />
-</a>
+<hr/>
